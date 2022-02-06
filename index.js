@@ -1,1 +1,2 @@
-let asd = 0
+let asd = 0;
+console.log(asd);
